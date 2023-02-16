@@ -47,8 +47,7 @@
 
 ## Key Features
 
-- npm packages
-- html, renders the project
+- displays a basic hello Microverse message
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
